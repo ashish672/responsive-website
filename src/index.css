@@ -59,7 +59,7 @@
   left : 10%;
   bottom: 30%;
   color : var(--white);
-  font-size : 19px;
+  font-size : 17px;
   display:flex;
   flex-direction : column;
   justify-content : space-evenly;
@@ -127,10 +127,9 @@
     bottom : 30%
   }
 
- 
-.nav-list {
-  width : 60%;
-}
+  .nav-list {
+    width : 60%;
+  }
   
 }
 
@@ -213,8 +212,8 @@
    }
 
    .carousel .slider-img .info {
-    right : 7%;
-    left : 7%;
+    right : 5%;
+    left : 5%;
     top : 35%;
     bottom : 35%;
   }
